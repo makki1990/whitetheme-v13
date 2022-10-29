@@ -50,6 +50,7 @@
     --text-bold: 600;
     --scroll-bg: #161a1f;
     --scroll-color: #1c2126;
+    overflow-x: hidden;
 }
 
 [data-theme="light"] {
@@ -66,4 +67,7 @@
     --awesomplete-hover-bg: #d4dcea;
     --scroll-bg: #eef1f5;
     --scroll-color: #d9dfe6;
+    overflow-x: hidden;
+    
+    
 }
